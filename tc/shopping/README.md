@@ -12,6 +12,6 @@ Council; its full history lives in [`2026/`](2026/).
 
 ## Domain Working Groups
 
-| DWG        | Charter | Status |
-| ---------- | ------- | ------ |
-| _None yet_ |         |        |
+| DWG                                                   | Charter                                                                  | Status |
+| ----------------------------------------------------- | ------------------------------------------------------------------------ | ------ |
+| [Bulk Product Discovery](dwg/bulk-product-discovery/) | [ucp#682](https://github.com/Universal-Commerce-Protocol/ucp/issues/682) | Active |
