@@ -1,4 +1,4 @@
-# UCP {DOMAIN} Tech Council ({DOMAIN_ABBR}TC) Meeting - {YYYY-MM-DD}
+# UCP {DOMAIN} Tech Council ({DOMAIN_ABBR} TC) Meeting - {YYYY-MM-DD}
 
 **Led by:** {NAME}
 
