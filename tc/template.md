@@ -1,4 +1,4 @@
-# UCP Tech Council (TC) Meeting - {YYYY-MM-DD}
+# UCP {DOMAIN} Tech Council ({DOMAIN_ABBR} TC) Meeting - {YYYY-MM-DD}
 
 **Led by:** {NAME}
 
@@ -17,7 +17,7 @@
   - **Decision:** {DECISION} (e.g., "Approved via lazy consensus")
   - **Context:** [Link to RFC/Issue/PR](#)
 
-## 3. Open Discussions & TC PR Reviews
+## 3. Open Discussions & DTC PR Reviews
 
 - **Topic:** {TOPIC_NAME} (or PR name + link)
   - **Notes:** {KEY_TAKEAWAYS}
